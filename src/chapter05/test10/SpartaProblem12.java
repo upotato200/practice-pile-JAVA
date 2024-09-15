@@ -1,4 +1,4 @@
-package chapter05;
+package chapter05.test10;
 
 public class SpartaProblem12 {
     public static double solution(int[] arr) {

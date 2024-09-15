@@ -1,6 +1,6 @@
-package chapter05;
+package chapter05.test10;
 
-public class SpartaProblem9 {
+public class SpartaProblem10 {
     public double solution(int[] numbers) {
         // 배열의 원소 합을 계산
         int sum = 0;
@@ -16,7 +16,7 @@ public class SpartaProblem9 {
 
     // 테스트 메소드
     public static void main(String[] args) {
-        SpartaProblem9 sol = new SpartaProblem9();
+        SpartaProblem10 sol = new SpartaProblem10();
 
         int[] test1 = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         System.out.println(sol.solution(test1)); // 출력: 5.5

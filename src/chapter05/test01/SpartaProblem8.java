@@ -1,4 +1,4 @@
-package chapter05;
+package chapter05.test01;
 
 public class SpartaProblem8 {
     public static int solution(int angle) {

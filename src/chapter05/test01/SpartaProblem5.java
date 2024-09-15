@@ -1,4 +1,4 @@
-package chapter05;
+package chapter05.test01;
 
 public class SpartaProblem5 {
     public int solution(int num1, int num2) {
